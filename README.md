@@ -2,6 +2,11 @@
 Deepesh Oli
 ## Project Overview
 
+1.	Built and administered a multi-VM Ubuntu Linux server environment with TCP/IP networking, static IP addressing, SSH, Nginx, UFW firewall, and disk storage.
+2.	Diagnosed and resolved service outages, network-interface failures, HTTP/firewall issues, disk-capacity problems, and missing storage devices using systemctl, ss, curl, ip, df, du, lsblk, and dmesg.
+3.	Documented root-cause analysis, remediation, and post-recovery verification for each simulated infrastructure incident.
+
+
 I configured two virtual machines, one being admin and other being linux server. The main objective was to demonstrate server administration, diagnose and troubleshoot different network connectivity, Nginx, storage and firewall rules. Admin virtual machine is used to connect to the sever remotely, checking service, port, functionalities and applying fix.
 
 ## Tools used
